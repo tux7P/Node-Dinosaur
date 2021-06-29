@@ -1,0 +1,26 @@
+{
+  "name": "Node-Dinosaur",
+  "version": "1.0.0",
+  "description": "Node Dinosaur!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tux7P/Node-Dinosaur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tux7P/Node-Dinosaur/issues"
+  },
+  "homepage": "https://github.com/tux7P/Node-Dinosaur#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
